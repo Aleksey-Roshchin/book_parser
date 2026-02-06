@@ -1,4 +1,4 @@
-import parse_books as pb
+import parser.core as pb
 
 if __name__ == "__main__":
     pb.parse_book(
